@@ -51,7 +51,7 @@ gcc Q2.c
 ### Execution :
 - Compile: 
 ```
-gcc Q3.cpp
+g++ Q3.cpp -lpthread
 ```
 - Run: 
 ```
